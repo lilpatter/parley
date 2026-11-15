@@ -4,7 +4,7 @@ Discord, light. A small native Discord client for Windows 10 and 11, by PG.
 
 **[Download the latest release](https://github.com/lilpatter/parley/releases/latest)**: `Parley_<version>_x64-setup.exe` installs it, `parley.exe` runs without installing.
 
-<p align="center"><img src="logo.png" width="128" alt="Parley's icon: two speech bubbles on a dark tile." /></p>
+<p align="center"><img src="logo.png" width="128" alt="Parley's icon: the Discord mascot with wings, flying, on a dark tile." /></p>
 
 ## What it does
 
