@@ -11,7 +11,7 @@ More at [lilpatter.github.io/parley](https://lilpatter.github.io/parley/).
 ## What it does
 
 - **Servers, channels and DMs.** Read and send messages, replies, emoji, slash commands, attachments and invite cards.
-- **Voice calls.** Voice channels and DM calls with Discord's own end-to-end encryption, noise suppression, per-person volume and global mute and deafen shortcuts.
+- **Voice calls.** Voice channels and DM calls, end-to-end encrypted with DAVE (Discord's own protocol for calls), noise suppression, per-person volume and global mute and deafen shortcuts.
 - **Stays signed in.** Restart your PC and Parley is still signed in, even when it starts before your network is up.
 - **QR sign-in.** Scan the code with the Discord app on your phone (Settings › Scan QR Code). The code refreshes itself, and if Discord asks for a captcha, Parley shows it so you can finish signing in.
 - **Several accounts.** Save more than one and switch between them from the account menu.
@@ -22,6 +22,7 @@ More at [lilpatter.github.io/parley](https://lilpatter.github.io/parley/).
 
 - Using a third-party client with your Discord account is against Discord's Terms of Service. Parley talks to Discord the way the web client does, but use it knowing that.
 - Screen sharing and video aren't supported.
+- Only calls are end-to-end encrypted. Text messages are encrypted on their way to Discord but not end to end, the same as in Discord's own app.
 
 ## Requirements
 
